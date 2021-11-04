@@ -29,6 +29,7 @@ function App() {
   // useEffect runs the newApi function and renders to console!
   useEffect(() => {
     newsApi();
+    // eslint-disable-next-line
   }, [newsResults, category, loadmore])
 
   return (

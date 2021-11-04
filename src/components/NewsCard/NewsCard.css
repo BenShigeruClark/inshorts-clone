@@ -50,6 +50,7 @@
     font-size: 22px;
     line-height: 27px;
     font-family: "Robot", sans-serif;
+    /* flex-direction: column-reverse; */
 }
 
 .muted {
